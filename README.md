@@ -7,7 +7,7 @@ Underwater scenes intrinsically involve degradation problems owing to heterogene
 # Comparison Figures
 This is the enhancement effects of some UIE methods on near-far scenarios:
 <div align=center>
-<img src="Figs/Near-Far View.jpg" width="50%">  
+<img src="Figs/Near-Far View.jpg" width="55%">  
 </div>
 
 This is the enhancement comparison of all methods on the UFO dataset:
@@ -17,7 +17,7 @@ This is the enhancement comparison of all methods on the UFO dataset:
 
 This is the effect comparison of different tasks before and after enhancement: 
 <div align=center>
-<img src="Figs/Application.jpg" width="50%"> 
+<img src="Figs/Application.jpg" width="60%"> 
 </div>
 
 # Discussion
