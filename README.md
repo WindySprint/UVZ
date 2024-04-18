@@ -8,7 +8,7 @@ This is the enhancement effects of some UIE methods on near-far scenarios:
 # Comparison Figures
 Here are some comparison figures of our method:  
 <div align=center>
-<img src="Figs/Near-Far View.jpg" width="40%">  
+<img src="Figs/Near-Far View.jpg" width="50%">  
 </div>
 
 This is the enhancement comparison of all methods on the UFO dataset:
