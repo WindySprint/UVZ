@@ -29,5 +29,6 @@ The complete code and models will be made public soon.
   title={Underwater Variable Zoom-Depth-Guided Perception Network for Underwater Image Enhancement},
   author={Huang, Zhixiong and Wang, Xinying and Li, Jinjiang and Liu, Shenglan and Feng, Lin},
   journal={arXiv preprint arXiv:2404.17883},
-  year={2024}}
+  year={2024}
+  }
 </code></pre>
