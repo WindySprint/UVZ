@@ -24,4 +24,9 @@ This is the effect comparison of different tasks before and after enhancement:
 The complete code and models will be made public soon.
 
 # 4. Citation
-This paper can be obtained from http://arxiv.org/abs/2404.17883
+@article{huang2024underwater,
+  title={Underwater Variable Zoom-Depth-Guided Perception Network for Underwater Image Enhancement},
+  author={Huang, Zhixiong and Wang, Xinying and Li, Jinjiang and Liu, Shenglan and Feng, Lin},
+  journal={arXiv preprint arXiv:2404.17883},
+  year={2024}
+}
