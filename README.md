@@ -12,7 +12,7 @@ This is the enhancement effects of some UIE methods on near-far scenarios:
 
 This is the enhancement comparison of all methods on the UFO dataset:
 <div align=center>
-<img src="Figs/Compare_UFO.jpg" width="70%">  
+<img src="Figs/UFO_Compare.jpg" width="70%">  
 </div>
 
 This is the effect comparison of different tasks before and after enhancement: 
