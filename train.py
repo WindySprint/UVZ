@@ -12,7 +12,6 @@ from warmup_scheduler import GradualWarmupScheduler
 from loss import Charbonnier_Loss, SSIM_Loss, VGG_Loss, torchPSNR
 
 from networks import network, d_network
-from networks.Ablation_Net import network_nores, d_network_norsb
 
 def train(config):
     d_net = d_network.d_net().cuda()
