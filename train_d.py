@@ -11,10 +11,10 @@ from tqdm import tqdm
 from warmup_scheduler import GradualWarmupScheduler
 from loss import torchPSNR
 
-from networks.Ablation_Net import d_network_norsb
+from networks import d_network
 
 def train(config):
-    d_net = d_network_norsb.d_net().cuda()
+    d_net = d_network.d_net().cuda()
 
     print("gpu_id:", config.cudaid)
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
