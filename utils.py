@@ -89,7 +89,7 @@ class test_loader(data.Dataset):
     def __getitem__(self, index):
 
         data_ori_path = self.image_dataset[index]
-        filename = data_ori_path.split('\\')[-1]
+        filename = data_ori_path.split('/')[-1]
         data_ori = Image.open(data_ori_path)
         data_ori = (np.asarray(data_ori) / 255.0)
         data_ori = torch.from_numpy(data_ori).float()
